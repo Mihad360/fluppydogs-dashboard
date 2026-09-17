@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Hugga Bunch">
+  <rect width="128" height="128" rx="28" fill="#FFF0F8"/>
+  <rect x="8" y="8" width="112" height="112" rx="22" fill="#E91E8C"/>
+  <text x="64" y="80" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="34" fill="#fff">HB</text>
+</svg>

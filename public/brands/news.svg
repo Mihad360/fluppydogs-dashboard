@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="News">
+  <rect width="128" height="128" rx="28" fill="#F0FFFE"/>
+  <rect x="8" y="8" width="112" height="112" rx="22" fill="#00BCD4"/>
+  <text x="64" y="84" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="52" fill="#fff">N</text>
+</svg>
